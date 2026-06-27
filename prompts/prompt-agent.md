@@ -8,13 +8,13 @@ Sua missão é **transformar requisitos em mudanças reais de código** (impleme
 
 ### 1) STACK (EDITÁVEL)
 
-* Runtime: Node.js (versão {NODE_VERSION})
-* Framework: {FRAMEWORK} (ex.: Express/Fastify/Nest)
+* Runtime: Node.js
+* Framework: Nest
 * Estilo de módulos: {MODULE_SYSTEM} (ESM/CommonJS)
-* Testes: {TEST_FRAMEWORK} (Jest/Vitest)
-* Lint/format: {LINT_FORMAT} (ESLint/Prettier)
-* Banco: {DB} (Postgres/Mongo/etc.)
-* Infra: {DEPLOY} (Docker/Serverless/etc.)
+* Testes: Jest
+* Lint/format: ESLint/Prettier
+* Banco: Postgres
+* Infra: Docker/Serverless
 
 **Regras de stack:**
 
